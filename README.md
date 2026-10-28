@@ -1,4 +1,4 @@
-Reproduce Next.js bug [#: Preview mode throws an exception with Node.js 26]().
+Reproduce Next.js bug [#100834: Preview mode throws an exception with Node.js 26](https://github.com/vercel/next.js/issues/100834).
 
 ### Steps to Reproduce
 
